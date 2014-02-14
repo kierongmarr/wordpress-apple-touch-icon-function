@@ -16,3 +16,7 @@ You simply need to
   5. apple-touch-icon-144x144.png
 3. Alternatively you can include precomposed versions of your apple touch icons by adding '-precomposed' onto the end of the filename after the size. i.e. 'apple-touch-icon-144x144-precomposed'.
 4. Include them either in the sites root or theme directory.
+
+Licensing
+-----------------------------------
+This code is licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by/4.0/deed.en_US). This means you are allowed to share and adapt for any purpose. This is allowed under the terms that you provide appropriate creidt, provide a link to the license, and indicate if any changes where made.
